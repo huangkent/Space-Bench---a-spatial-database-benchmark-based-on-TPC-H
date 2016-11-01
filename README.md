@@ -9,4 +9,4 @@ Space Bench provides these components:
 4) a set of spatial queries for database performance test
 The data generator suite is included in this repository as a zipped file, while the other components are provided in the doc of Thesis Boday.
 
-The thesis describes the entire benchmark.
+The thesis describes the entire benchmark. It contains its abstract, contents and body.
